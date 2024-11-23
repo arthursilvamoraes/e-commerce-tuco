@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Bola de Futebol Nike",
+        "price": 299.99,
+        "quantity": 1,
+        "image": "https://m.media-amazon.com/images/I/71TfP0fDIsL._AC_SL1500_.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Bola de Vôlei Wilson",
+        "price": 129.99,
+        "quantity": 2,
+        "image": "https://m.media-amazon.com/images/I/51IPwjrLdWL._AC_SL1000_.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Garrafa Térmica",
+        "price": 69.99,
+        "quantity": 1,
+        "image": "https://atacadogourmet.jetassets.com.br/produto/multifotos/hd/20220816082953_962999038_DZ.jpg"
+    }
+]

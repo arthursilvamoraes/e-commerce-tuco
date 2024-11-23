@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Bola de Futebol Nike",
+        "description": "Bola de futebol Nike, ideal para treinos e partidas.",
+        "price": 299.99,
+        "image": "https://m.media-amazon.com/images/I/71TfP0fDIsL._AC_SL1500_.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Bola de Basquete Spalding",
+        "description": "Bola de basquete Spalding, ótima para jogos e treinos.",
+        "price": 129.99,
+        "image": "https://imgcentauro-a.akamaihd.net/768x768/966449CD.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Garrafa Térmica Atlas",
+        "description": "Descrição do produto 3",
+        "price": 69.99,
+        "image": "https://atacadogourmet.jetassets.com.br/produto/multifotos/hd/20220816082953_962999038_DZ.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Bola de Vôlei Wilson",
+        "description": "Bola de vôlei Wilson, perfeita para jogos e recreação.",
+        "price": 169.99,
+        "image": "https://m.media-amazon.com/images/I/51IPwjrLdWL._AC_SL1000_.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Bola de Rugby Adidas",
+        "description": "Bola de rugby Adidas, ideal para treinos intensos.",
+        "price": 349.99,
+        "image": "https://www.sofutebolbrasil.net/images/produtos/zoom/69115_1/bola-torpedo-x-ebition-adidas-rugby.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Bola de Futsal Nike",
+        "description": "Bola de futsal Nike, indicada para jogos de salão.",
+        "price": 149.99,
+        "image": "https://m.media-amazon.com/images/I/61EDxCbHWgL._AC_SL1000_.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Bola de Futebol Americano Wilson",
+        "description": "Bola de futebol americano Wilson, para jogos profissionais.",
+        "price": 179.99,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_832290-MLU71274616235_082023-O.webp"
+    },
+    {
+        "id": 8,
+        "name": "Bola de Handebol Adidas",
+        "description": "Bola de handebol Adidas, excelente para competições.",
+        "price": 189.99,
+        "image": "https://static.dafiti.com.br/p/adidas-Performance-Bola-Handebol-adidas-Stabil-R%C3%A9plica-Branca-1216-3925241-1-zoom.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Bola de Tênis Wilson",
+        "description": "Bola de tênis Wilson, usada em torneios e competições.",
+        "price": 49.99,
+        "image": "https://m.media-amazon.com/images/I/61Yr8TJu5xL.__AC_SX300_SY300_QL70_ML2_.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Bola de Futebol Society Nike",
+        "description": "Bola de futebol society Nike, excelente para jogos em campo reduzido.",
+        "price": 159.99,
+        "image": "https://m.media-amazon.com/images/I/81nOrHMUuUL._AC_SL1500_.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Bola de Polo Aquático Speedo",
+        "description": "Bola de polo aquático Speedo, para uso em piscinas.",
+        "price": 129.99,
+        "image": "https://m.media-amazon.com/images/I/71ec1iuxqXL._AC_SL1500_.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Bola de Futebol de Areia Adidas",
+        "description": "Bola de futebol de areia Adidas, ideal para jogos de praia.",
+        "price": 89.99,
+        "image": "https://m.media-amazon.com/images/I/719L8eZkUkL._AC_SL1000_.jpg"
+    }
+]
